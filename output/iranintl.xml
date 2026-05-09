@@ -18,19 +18,6 @@
     <title lang="fa">خبر</title>
     <category lang="en">programme</category>
   </programme>
-  <programme start="20260509014500 +0000" stop="20260509020000 +0000" channel="iranintl.iitv">
-    <title lang="fa">پوشش ویژه خبری</title>
-    <category lang="en">programme</category>
-  </programme>
-  <programme start="20260509020000 +0000" stop="20260509023000 +0000" channel="iranintl.iitv">
-    <title lang="fa">حرف آخر با پوریا زراعتی  </title>
-    <category lang="en">programme</category>
-    <url>https://www.iranintl.com/vod/the-last-word</url>
-  </programme>
-  <programme start="20260509023000 +0000" stop="20260509031500 +0000" channel="iranintl.iitv">
-    <title lang="fa">خبر</title>
-    <category lang="en">programme</category>
-  </programme>
   <programme start="20260509031500 +0000" stop="20260509033000 +0000" channel="iranintl.iitv">
     <title lang="fa">پوشش ویژه خبری</title>
     <category lang="en">programme</category>
@@ -111,14 +98,9 @@
     <category lang="en">programme</category>
     <url>https://www.iranintl.com/vod/the-last-word</url>
   </programme>
-  <programme start="20260509123000 +0000" stop="20260509130000 +0000" channel="iranintl.iitv">
+  <programme start="20260509123000 +0000" stop="20260509131500 +0000" channel="iranintl.iitv">
     <title lang="fa">خبر</title>
     <category lang="en">programme</category>
-  </programme>
-  <programme start="20260509130000 +0000" stop="20260509131500 +0000" channel="iranintl.iitv">
-    <title lang="fa">گفت‌وگوی ویژه</title>
-    <category lang="en">programme</category>
-    <url>https://www.iranintl.com/vod/special-interview-series</url>
   </programme>
   <programme start="20260509131500 +0000" stop="20260509133000 +0000" channel="iranintl.iitv">
     <title lang="fa">پوشش ویژه خبری</title>
@@ -326,12 +308,8 @@
     <category lang="en">programme</category>
     <url>https://www.iranintl.com/vod/news-special-with-morad</url>
   </programme>
-  <programme start="20260510123000 +0000" stop="20260510130000 +0000" channel="iranintl.iitv">
+  <programme start="20260510123000 +0000" stop="20260510131500 +0000" channel="iranintl.iitv">
     <title lang="fa">خبر</title>
-    <category lang="en">programme</category>
-  </programme>
-  <programme start="20260510130000 +0000" stop="20260510131500 +0000" channel="iranintl.iitv">
-    <title lang="fa">پوشش ویژه خبری</title>
     <category lang="en">programme</category>
   </programme>
   <programme start="20260510131500 +0000" stop="20260510133000 +0000" channel="iranintl.iitv">
