@@ -17,19 +17,6 @@
     <title lang="fa">خبر</title>
     <category lang="en">programme</category>
   </programme>
-  <programme start="20260515014500 +0000" stop="20260515020000 +0000" channel="iranintl.iitv">
-    <title lang="fa">پوشش ویژه خبری</title>
-    <category lang="en">programme</category>
-  </programme>
-  <programme start="20260515020000 +0000" stop="20260515023000 +0000" channel="iranintl.iitv">
-    <title lang="fa">دومینو</title>
-    <category lang="en">programme</category>
-    <url>https://www.iranintl.com/vod/domino-live</url>
-  </programme>
-  <programme start="20260515023000 +0000" stop="20260515031500 +0000" channel="iranintl.iitv">
-    <title lang="fa">خبر</title>
-    <category lang="en">programme</category>
-  </programme>
   <programme start="20260515031500 +0000" stop="20260515033000 +0000" channel="iranintl.iitv">
     <title lang="fa">پوشش ویژه خبری</title>
     <category lang="en">programme</category>
