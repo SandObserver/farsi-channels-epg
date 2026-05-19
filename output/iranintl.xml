@@ -18,19 +18,6 @@
     <title lang="fa">خبر</title>
     <category lang="en">programme</category>
   </programme>
-  <programme start="20260519014500 +0000" stop="20260519020000 +0000" channel="iranintl.iitv">
-    <title lang="fa">پوشش ویژه خبری</title>
-    <category lang="en">programme</category>
-  </programme>
-  <programme start="20260519020000 +0000" stop="20260519023000 +0000" channel="iranintl.iitv">
-    <title lang="fa">سیاست با مراد ویسی   </title>
-    <category lang="en">programme</category>
-    <url>https://www.iranintl.com/vod/news-special-with-morad</url>
-  </programme>
-  <programme start="20260519023000 +0000" stop="20260519031500 +0000" channel="iranintl.iitv">
-    <title lang="fa">خبر</title>
-    <category lang="en">programme</category>
-  </programme>
   <programme start="20260519031500 +0000" stop="20260519033000 +0000" channel="iranintl.iitv">
     <title lang="fa">پوشش ویژه خبری</title>
     <category lang="en">programme</category>
@@ -98,8 +85,9 @@
     <category lang="en">programme</category>
   </programme>
   <programme start="20260519111500 +0000" stop="20260519113000 +0000" channel="iranintl.iitv">
-    <title lang="fa">پوشش ویژه خبری</title>
+    <title lang="fa">گفت‌وگوی ویژه</title>
     <category lang="en">programme</category>
+    <url>https://www.iranintl.com/vod/special-interview-series</url>
   </programme>
   <programme start="20260519113000 +0000" stop="20260519120000 +0000" channel="iranintl.iitv">
     <title lang="fa">خبر</title>
@@ -144,8 +132,9 @@
     <category lang="en">programme</category>
   </programme>
   <programme start="20260519161500 +0000" stop="20260519163000 +0000" channel="iranintl.iitv">
-    <title lang="fa">پوشش ویژه خبری</title>
+    <title lang="fa">گفت‌وگوی ویژه</title>
     <category lang="en">programme</category>
+    <url>https://www.iranintl.com/vod/special-interview-series</url>
   </programme>
   <programme start="20260519163000 +0000" stop="20260519171500 +0000" channel="iranintl.iitv">
     <title lang="fa">تیتر اول با نیوشا صارمی       </title>
