@@ -17,18 +17,6 @@
     <title lang="fa">خبر</title>
     <category lang="en">programme</category>
   </programme>
-  <programme start="20260703014500 +0000" stop="20260703020000 +0000" channel="iranintl.iitv">
-    <title lang="fa">پوشش ویژه خبری</title>
-    <category lang="en">programme</category>
-  </programme>
-  <programme start="20260703020000 +0000" stop="20260703023000 +0000" channel="iranintl.iitv">
-    <title lang="fa">Fereydoun</title>
-    <category lang="en">programme</category>
-  </programme>
-  <programme start="20260703023000 +0000" stop="20260703031500 +0000" channel="iranintl.iitv">
-    <title lang="fa">خبر</title>
-    <category lang="en">programme</category>
-  </programme>
   <programme start="20260703031500 +0000" stop="20260703033000 +0000" channel="iranintl.iitv">
     <title lang="fa">پوشش ویژه خبری</title>
     <category lang="en">programme</category>
