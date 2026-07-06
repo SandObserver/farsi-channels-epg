@@ -17,19 +17,6 @@
     <title lang="fa">خبر</title>
     <category lang="en">programme</category>
   </programme>
-  <programme start="20260706014500 +0000" stop="20260706020000 +0000" channel="iranintl.iitv">
-    <title lang="fa">پوشش ویژه خبری</title>
-    <category lang="en">programme</category>
-  </programme>
-  <programme start="20260706020000 +0000" stop="20260706023000 +0000" channel="iranintl.iitv">
-    <title lang="fa">سیاست با مراد ویسی   </title>
-    <category lang="en">programme</category>
-    <url>https://www.iranintl.com/vod/news-special-with-morad</url>
-  </programme>
-  <programme start="20260706023000 +0000" stop="20260706031500 +0000" channel="iranintl.iitv">
-    <title lang="fa">خبر</title>
-    <category lang="en">programme</category>
-  </programme>
   <programme start="20260706031500 +0000" stop="20260706033000 +0000" channel="iranintl.iitv">
     <title lang="fa">پوشش ویژه خبری</title>
     <category lang="en">programme</category>
@@ -331,6 +318,7 @@
   <programme start="20260707131500 +0000" stop="20260707133000 +0000" channel="iranintl.iitv">
     <title lang="fa">مرگ خامنه‌ای؛ پایان دیکتاتور</title>
     <category lang="en">programme</category>
+    <url>https://www.iranintl.com/vod/the-death-of-khamenei</url>
   </programme>
   <programme start="20260707133000 +0000" stop="20260707141500 +0000" channel="iranintl.iitv">
     <title lang="fa">خبر</title>
@@ -365,6 +353,7 @@
   <programme start="20260707171500 +0000" stop="20260707173000 +0000" channel="iranintl.iitv">
     <title lang="fa">مرگ خامنه‌ای؛ پایان دیکتاتور</title>
     <category lang="en">programme</category>
+    <url>https://www.iranintl.com/vod/the-death-of-khamenei</url>
   </programme>
   <programme start="20260707173000 +0000" stop="20260707181500 +0000" channel="iranintl.iitv">
     <title lang="fa">چشم‌انداز با مهدی مهدوی‌آزاد</title>
@@ -483,6 +472,7 @@
   <programme start="20260708061500 +0000" stop="20260708063000 +0000" channel="iranintl.iitv">
     <title lang="fa">مرگ خامنه‌ای؛ پایان دیکتاتور</title>
     <category lang="en">programme</category>
+    <url>https://www.iranintl.com/vod/the-death-of-khamenei</url>
   </programme>
   <programme start="20260708063000 +0000" stop="20260708071500 +0000" channel="iranintl.iitv">
     <title lang="fa">خبر</title>
@@ -549,6 +539,7 @@
   <programme start="20260708141500 +0000" stop="20260708143000 +0000" channel="iranintl.iitv">
     <title lang="fa">مرگ خامنه‌ای؛ پایان دیکتاتور</title>
     <category lang="en">programme</category>
+    <url>https://www.iranintl.com/vod/the-death-of-khamenei</url>
   </programme>
   <programme start="20260708143000 +0000" stop="20260708144500 +0000" channel="iranintl.iitv">
     <title lang="fa">گزارش روز با مجتبا پورمحسن </title>
@@ -718,6 +709,7 @@
   <programme start="20260709091500 +0000" stop="20260709093000 +0000" channel="iranintl.iitv">
     <title lang="fa">مرگ خامنه‌ای؛ پایان دیکتاتور</title>
     <category lang="en">programme</category>
+    <url>https://www.iranintl.com/vod/the-death-of-khamenei</url>
   </programme>
   <programme start="20260709093000 +0000" stop="20260709101500 +0000" channel="iranintl.iitv">
     <title lang="fa">خبر</title>
@@ -783,6 +775,7 @@
   <programme start="20260709170000 +0000" stop="20260709171500 +0000" channel="iranintl.iitv">
     <title lang="fa">مرگ خامنه‌ای؛ پایان دیکتاتور</title>
     <category lang="en">programme</category>
+    <url>https://www.iranintl.com/vod/the-death-of-khamenei</url>
   </programme>
   <programme start="20260709171500 +0000" stop="20260709173000 +0000" channel="iranintl.iitv">
     <title lang="fa">پوشش ویژه خبری</title>
@@ -963,6 +956,7 @@
   <programme start="20260710131500 +0000" stop="20260710133000 +0000" channel="iranintl.iitv">
     <title lang="fa">مرگ خامنه‌ای؛ پایان دیکتاتور</title>
     <category lang="en">programme</category>
+    <url>https://www.iranintl.com/vod/the-death-of-khamenei</url>
   </programme>
   <programme start="20260710133000 +0000" stop="20260710141500 +0000" channel="iranintl.iitv">
     <title lang="fa">خبر</title>
@@ -1005,6 +999,7 @@
   <programme start="20260710180000 +0000" stop="20260710181500 +0000" channel="iranintl.iitv">
     <title lang="fa">مرگ خامنه‌ای؛ پایان دیکتاتور</title>
     <category lang="en">programme</category>
+    <url>https://www.iranintl.com/vod/the-death-of-khamenei</url>
   </programme>
   <programme start="20260710181500 +0000" stop="20260710183000 +0000" channel="iranintl.iitv">
     <title lang="fa">چرتکه</title>
