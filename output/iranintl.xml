@@ -17,19 +17,6 @@
     <title lang="fa">خبر</title>
     <category lang="en">programme</category>
   </programme>
-  <programme start="20260708014500 +0000" stop="20260708020000 +0000" channel="iranintl.iitv">
-    <title lang="fa">پوشش ویژه خبری</title>
-    <category lang="en">programme</category>
-  </programme>
-  <programme start="20260708020000 +0000" stop="20260708023000 +0000" channel="iranintl.iitv">
-    <title lang="fa">سیاست با مراد ویسی   </title>
-    <category lang="en">programme</category>
-    <url>https://www.iranintl.com/vod/news-special-with-morad</url>
-  </programme>
-  <programme start="20260708023000 +0000" stop="20260708031500 +0000" channel="iranintl.iitv">
-    <title lang="fa">خبر</title>
-    <category lang="en">programme</category>
-  </programme>
   <programme start="20260708031500 +0000" stop="20260708033000 +0000" channel="iranintl.iitv">
     <title lang="fa">پوشش ویژه خبری</title>
     <category lang="en">programme</category>
@@ -377,10 +364,14 @@
     <category lang="en">programme</category>
     <url>https://www.iranintl.com/vod/domino-live</url>
   </programme>
-  <programme start="20260709180000 +0000" stop="20260709183000 +0000" channel="iranintl.iitv">
+  <programme start="20260709180000 +0000" stop="20260709181500 +0000" channel="iranintl.iitv">
     <title lang="fa">گفت‌وگوی ویژه</title>
     <category lang="en">programme</category>
     <url>https://www.iranintl.com/vod/special-interview-series</url>
+  </programme>
+  <programme start="20260709181500 +0000" stop="20260709183000 +0000" channel="iranintl.iitv">
+    <title lang="fa">پوشش ویژه خبری</title>
+    <category lang="en">programme</category>
   </programme>
   <programme start="20260709183000 +0000" stop="20260709191500 +0000" channel="iranintl.iitv">
     <title lang="fa">۲۴ با فرداد فرحزاد     </title>
@@ -401,8 +392,9 @@
     <category lang="en">programme</category>
   </programme>
   <programme start="20260709210000 +0000" stop="20260709213000 +0000" channel="iranintl.iitv">
-    <title lang="fa">Fereydoun</title>
+    <title lang="fa">فریدون</title>
     <category lang="en">programme</category>
+    <url>https://www.iranintl.com/vod/fereydoun</url>
   </programme>
   <programme start="20260709213000 +0000" stop="20260709221500 +0000" channel="iranintl.iitv">
     <title lang="fa">خبر</title>
@@ -451,8 +443,9 @@
     <category lang="en">programme</category>
   </programme>
   <programme start="20260710020000 +0000" stop="20260710023000 +0000" channel="iranintl.iitv">
-    <title lang="fa">Fereydoun</title>
+    <title lang="fa">فریدون</title>
     <category lang="en">programme</category>
+    <url>https://www.iranintl.com/vod/fereydoun</url>
   </programme>
   <programme start="20260710023000 +0000" stop="20260710031500 +0000" channel="iranintl.iitv">
     <title lang="fa">خبر</title>
@@ -475,17 +468,22 @@
     <category lang="en">programme</category>
   </programme>
   <programme start="20260710050000 +0000" stop="20260710053000 +0000" channel="iranintl.iitv">
-    <title lang="fa">Fereydoun</title>
+    <title lang="fa">فریدون</title>
     <category lang="en">programme</category>
+    <url>https://www.iranintl.com/vod/fereydoun</url>
   </programme>
   <programme start="20260710053000 +0000" stop="20260710060000 +0000" channel="iranintl.iitv">
     <title lang="fa">خبر</title>
     <category lang="en">programme</category>
   </programme>
-  <programme start="20260710060000 +0000" stop="20260710063000 +0000" channel="iranintl.iitv">
+  <programme start="20260710060000 +0000" stop="20260710061500 +0000" channel="iranintl.iitv">
     <title lang="fa">گفت‌وگوی ویژه</title>
     <category lang="en">programme</category>
     <url>https://www.iranintl.com/vod/special-interview-series</url>
+  </programme>
+  <programme start="20260710061500 +0000" stop="20260710063000 +0000" channel="iranintl.iitv">
+    <title lang="fa">پوشش ویژه خبری</title>
+    <category lang="en">programme</category>
   </programme>
   <programme start="20260710063000 +0000" stop="20260710071500 +0000" channel="iranintl.iitv">
     <title lang="fa">خبر</title>
@@ -537,8 +535,9 @@
     <category lang="en">programme</category>
   </programme>
   <programme start="20260710120000 +0000" stop="20260710123000 +0000" channel="iranintl.iitv">
-    <title lang="fa">Fereydoun</title>
+    <title lang="fa">فریدون</title>
     <category lang="en">programme</category>
+    <url>https://www.iranintl.com/vod/fereydoun</url>
   </programme>
   <programme start="20260710123000 +0000" stop="20260710131500 +0000" channel="iranintl.iitv">
     <title lang="fa">خبر</title>
@@ -577,10 +576,14 @@
     <title lang="fa">خبر</title>
     <category lang="en">programme</category>
   </programme>
-  <programme start="20260710170000 +0000" stop="20260710173000 +0000" channel="iranintl.iitv">
+  <programme start="20260710170000 +0000" stop="20260710171500 +0000" channel="iranintl.iitv">
     <title lang="fa">گفت‌وگوی ویژه</title>
     <category lang="en">programme</category>
     <url>https://www.iranintl.com/vod/special-interview-series</url>
+  </programme>
+  <programme start="20260710171500 +0000" stop="20260710173000 +0000" channel="iranintl.iitv">
+    <title lang="fa">پوشش ویژه خبری</title>
+    <category lang="en">programme</category>
   </programme>
   <programme start="20260710173000 +0000" stop="20260710180000 +0000" channel="iranintl.iitv">
     <title lang="fa">حرف آخر با پوریا زراعتی  </title>
@@ -641,10 +644,14 @@
     <title lang="fa">پوشش ویژه خبری</title>
     <category lang="en">programme</category>
   </programme>
-  <programme start="20260710230000 +0000" stop="20260710233000 +0000" channel="iranintl.iitv">
+  <programme start="20260710230000 +0000" stop="20260710231500 +0000" channel="iranintl.iitv">
     <title lang="fa">گفت‌وگوی ویژه</title>
     <category lang="en">programme</category>
     <url>https://www.iranintl.com/vod/special-interview-series</url>
+  </programme>
+  <programme start="20260710231500 +0000" stop="20260710233000 +0000" channel="iranintl.iitv">
+    <title lang="fa">پوشش ویژه خبری</title>
+    <category lang="en">programme</category>
   </programme>
   <programme start="20260710233000 +0000" stop="20260710234500 +0000" channel="iranintl.iitv">
     <title lang="fa">خبر</title>
@@ -679,6 +686,491 @@
   <programme start="20260711023000 +0000" stop="20260711031500 +0000" channel="iranintl.iitv">
     <title lang="fa">خبر</title>
     <category lang="en">programme</category>
+  </programme>
+  <programme start="20260711033000 +0000" stop="20260711041500 +0000" channel="iranintl.iitv">
+    <title lang="fa">خبر</title>
+    <category lang="en">programme</category>
+  </programme>
+  <programme start="20260711043000 +0000" stop="20260711050000 +0000" channel="iranintl.iitv">
+    <title lang="fa">خبر</title>
+    <category lang="en">programme</category>
+  </programme>
+  <programme start="20260711050000 +0000" stop="20260711051500 +0000" channel="iranintl.iitv">
+    <title lang="fa">گفت‌وگوی ویژه</title>
+    <category lang="en">programme</category>
+    <url>https://www.iranintl.com/vod/special-interview-series</url>
+  </programme>
+  <programme start="20260711053000 +0000" stop="20260711060000 +0000" channel="iranintl.iitv">
+    <title lang="fa">خبر</title>
+    <category lang="en">programme</category>
+  </programme>
+  <programme start="20260711060000 +0000" stop="20260711061500 +0000" channel="iranintl.iitv">
+    <title lang="fa">مرگ خامنه‌ای؛ پایان دیکتاتور</title>
+    <category lang="en">programme</category>
+    <url>https://www.iranintl.com/vod/the-death-of-khamenei</url>
+  </programme>
+  <programme start="20260711063000 +0000" stop="20260711071500 +0000" channel="iranintl.iitv">
+    <title lang="fa">خبر</title>
+    <category lang="en">programme</category>
+  </programme>
+  <programme start="20260711071500 +0000" stop="20260711073000 +0000" channel="iranintl.iitv">
+    <title lang="fa">هت‌تریک ویژه جام جهانی</title>
+    <category lang="en">programme</category>
+  </programme>
+  <programme start="20260711073000 +0000" stop="20260711074500 +0000" channel="iranintl.iitv">
+    <title lang="fa">خبر</title>
+    <category lang="en">programme</category>
+  </programme>
+  <programme start="20260711074500 +0000" stop="20260711081500 +0000" channel="iranintl.iitv">
+    <title lang="fa">حرف آخر با پوریا زراعتی  </title>
+    <category lang="en">programme</category>
+    <url>https://www.iranintl.com/vod/the-last-word</url>
+  </programme>
+  <programme start="20260711083000 +0000" stop="20260711091500 +0000" channel="iranintl.iitv">
+    <title lang="fa">خبر</title>
+    <category lang="en">programme</category>
+  </programme>
+  <programme start="20260711093000 +0000" stop="20260711101500 +0000" channel="iranintl.iitv">
+    <title lang="fa">خبر</title>
+    <category lang="en">programme</category>
+  </programme>
+  <programme start="20260711103000 +0000" stop="20260711111500 +0000" channel="iranintl.iitv">
+    <title lang="fa">خبر</title>
+    <category lang="en">programme</category>
+  </programme>
+  <programme start="20260711111500 +0000" stop="20260711113000 +0000" channel="iranintl.iitv">
+    <title lang="fa">چرتکه</title>
+    <category lang="en">programme</category>
+    <url>https://www.iranintl.com/vod/chortkeh</url>
+  </programme>
+  <programme start="20260711113000 +0000" stop="20260711120000 +0000" channel="iranintl.iitv">
+    <title lang="fa">خبر</title>
+    <category lang="en">programme</category>
+  </programme>
+  <programme start="20260711120000 +0000" stop="20260711123000 +0000" channel="iranintl.iitv">
+    <title lang="fa">حرف آخر با پوریا زراعتی  </title>
+    <category lang="en">programme</category>
+    <url>https://www.iranintl.com/vod/the-last-word</url>
+  </programme>
+  <programme start="20260711123000 +0000" stop="20260711131500 +0000" channel="iranintl.iitv">
+    <title lang="fa">خبر</title>
+    <category lang="en">programme</category>
+  </programme>
+  <programme start="20260711133000 +0000" stop="20260711141500 +0000" channel="iranintl.iitv">
+    <title lang="fa">خبر</title>
+    <category lang="en">programme</category>
+  </programme>
+  <programme start="20260711141500 +0000" stop="20260711143000 +0000" channel="iranintl.iitv">
+    <title lang="fa">مرگ خامنه‌ای؛ پایان دیکتاتور</title>
+    <category lang="en">programme</category>
+    <url>https://www.iranintl.com/vod/the-death-of-khamenei</url>
+  </programme>
+  <programme start="20260711143000 +0000" stop="20260711144500 +0000" channel="iranintl.iitv">
+    <title lang="fa">گزارش روز با مجتبا پورمحسن </title>
+    <category lang="en">programme</category>
+    <url>https://www.iranintl.com/vod/daily-report-with-mojtaba-pourmohesen</url>
+  </programme>
+  <programme start="20260711150000 +0000" stop="20260711161500 +0000" channel="iranintl.iitv">
+    <title lang="fa">هت‌تریک ویژه جام جهانی</title>
+    <category lang="en">programme</category>
+  </programme>
+  <programme start="20260711161500 +0000" stop="20260711163000 +0000" channel="iranintl.iitv">
+    <title lang="fa">چرتکه</title>
+    <category lang="en">programme</category>
+    <url>https://www.iranintl.com/vod/chortkeh</url>
+  </programme>
+  <programme start="20260711163000 +0000" stop="20260711171500 +0000" channel="iranintl.iitv">
+    <title lang="fa">تیتر اول با نیوشا صارمی       </title>
+    <category lang="en">programme</category>
+    <url>https://www.iranintl.com/vod/titre-aval</url>
+  </programme>
+  <programme start="20260711173000 +0000" stop="20260711181500 +0000" channel="iranintl.iitv">
+    <title lang="fa">چشم‌انداز با مهدی مهدوی‌آزاد</title>
+    <category lang="en">programme</category>
+    <url>https://www.iranintl.com/vod/talk-show</url>
+  </programme>
+  <programme start="20260711183000 +0000" stop="20260711191500 +0000" channel="iranintl.iitv">
+    <title lang="fa">خبر</title>
+    <category lang="en">programme</category>
+  </programme>
+  <programme start="20260711191500 +0000" stop="20260711193000 +0000" channel="iranintl.iitv">
+    <title lang="fa">هت‌تریک ویژه جام جهانی</title>
+    <category lang="en">programme</category>
+  </programme>
+  <programme start="20260711193000 +0000" stop="20260711200000 +0000" channel="iranintl.iitv">
+    <title lang="fa">خبر</title>
+    <category lang="en">programme</category>
+  </programme>
+  <programme start="20260711200000 +0000" stop="20260711203000 +0000" channel="iranintl.iitv">
+    <title lang="fa">حرف آخر با پوریا زراعتی  </title>
+    <category lang="en">programme</category>
+    <url>https://www.iranintl.com/vod/the-last-word</url>
+  </programme>
+  <programme start="20260711203000 +0000" stop="20260711204500 +0000" channel="iranintl.iitv">
+    <title lang="fa">خبر</title>
+    <category lang="en">programme</category>
+  </programme>
+  <programme start="20260711210000 +0000" stop="20260711213000 +0000" channel="iranintl.iitv">
+    <title lang="fa">سیاست با مراد ویسی   </title>
+    <category lang="en">programme</category>
+    <url>https://www.iranintl.com/vod/news-special-with-morad</url>
+  </programme>
+  <programme start="20260711213000 +0000" stop="20260711221500 +0000" channel="iranintl.iitv">
+    <title lang="fa">خبر</title>
+    <category lang="en">programme</category>
+  </programme>
+  <programme start="20260711221500 +0000" stop="20260711223000 +0000" channel="iranintl.iitv">
+    <title lang="fa">گزارش روز با مجتبا پورمحسن </title>
+    <category lang="en">programme</category>
+    <url>https://www.iranintl.com/vod/daily-report-with-mojtaba-pourmohesen</url>
+  </programme>
+  <programme start="20260711223000 +0000" stop="20260711224500 +0000" channel="iranintl.iitv">
+    <title lang="fa">خبر</title>
+    <category lang="en">programme</category>
+  </programme>
+  <programme start="20260711224500 +0000" stop="20260711233000 +0000" channel="iranintl.iitv">
+    <title lang="fa">چشم‌انداز با مهدی مهدوی‌آزاد</title>
+    <category lang="en">programme</category>
+    <url>https://www.iranintl.com/vod/talk-show</url>
+  </programme>
+  <programme start="20260711233000 +0000" stop="20260711234500 +0000" channel="iranintl.iitv">
+    <title lang="fa">خبر</title>
+    <category lang="en">programme</category>
+  </programme>
+  <programme start="20260711234500 +0000" stop="20260712003000 +0000" channel="iranintl.iitv">
+    <title lang="fa">تیتر اول با نیوشا صارمی       </title>
+    <category lang="en">programme</category>
+    <url>https://www.iranintl.com/vod/titre-aval</url>
+  </programme>
+  <programme start="20260712003000 +0000" stop="20260712011500 +0000" channel="iranintl.iitv">
+    <title lang="fa">خبر</title>
+    <category lang="en">programme</category>
+  </programme>
+  <programme start="20260712011500 +0000" stop="20260712013000 +0000" channel="iranintl.iitv">
+    <title lang="fa">هت‌تریک ویژه جام جهانی</title>
+    <category lang="en">programme</category>
+  </programme>
+  <programme start="20260712013000 +0000" stop="20260712014500 +0000" channel="iranintl.iitv">
+    <title lang="fa">خبر</title>
+    <category lang="en">programme</category>
+  </programme>
+  <programme start="20260712020000 +0000" stop="20260712023000 +0000" channel="iranintl.iitv">
+    <title lang="fa">سیاست با مراد ویسی   </title>
+    <category lang="en">programme</category>
+    <url>https://www.iranintl.com/vod/news-special-with-morad</url>
+  </programme>
+  <programme start="20260712023000 +0000" stop="20260712031500 +0000" channel="iranintl.iitv">
+    <title lang="fa">خبر</title>
+    <category lang="en">programme</category>
+  </programme>
+  <programme start="20260712033000 +0000" stop="20260712041500 +0000" channel="iranintl.iitv">
+    <title lang="fa">خبر</title>
+    <category lang="en">programme</category>
+  </programme>
+  <programme start="20260712043000 +0000" stop="20260712050000 +0000" channel="iranintl.iitv">
+    <title lang="fa">خبر</title>
+    <category lang="en">programme</category>
+  </programme>
+  <programme start="20260712050000 +0000" stop="20260712053000 +0000" channel="iranintl.iitv">
+    <title lang="fa">سیاست با مراد ویسی   </title>
+    <category lang="en">programme</category>
+    <url>https://www.iranintl.com/vod/news-special-with-morad</url>
+  </programme>
+  <programme start="20260712053000 +0000" stop="20260712060000 +0000" channel="iranintl.iitv">
+    <title lang="fa">خبر</title>
+    <category lang="en">programme</category>
+  </programme>
+  <programme start="20260712060000 +0000" stop="20260712061500 +0000" channel="iranintl.iitv">
+    <title lang="fa">گزارش روز با مجتبا پورمحسن </title>
+    <category lang="en">programme</category>
+    <url>https://www.iranintl.com/vod/daily-report-with-mojtaba-pourmohesen</url>
+  </programme>
+  <programme start="20260712063000 +0000" stop="20260712071500 +0000" channel="iranintl.iitv">
+    <title lang="fa">خبر</title>
+    <category lang="en">programme</category>
+  </programme>
+  <programme start="20260712071500 +0000" stop="20260712073000 +0000" channel="iranintl.iitv">
+    <title lang="fa">هت‌تریک ویژه جام جهانی</title>
+    <category lang="en">programme</category>
+  </programme>
+  <programme start="20260712073000 +0000" stop="20260712074500 +0000" channel="iranintl.iitv">
+    <title lang="fa">خبر</title>
+    <category lang="en">programme</category>
+  </programme>
+  <programme start="20260712074500 +0000" stop="20260712083000 +0000" channel="iranintl.iitv">
+    <title lang="fa">چشم‌انداز با مهدی مهدوی‌آزاد</title>
+    <category lang="en">programme</category>
+    <url>https://www.iranintl.com/vod/talk-show</url>
+  </programme>
+  <programme start="20260712083000 +0000" stop="20260712091500 +0000" channel="iranintl.iitv">
+    <title lang="fa">خبر</title>
+    <category lang="en">programme</category>
+  </programme>
+  <programme start="20260712093000 +0000" stop="20260712101500 +0000" channel="iranintl.iitv">
+    <title lang="fa">خبر</title>
+    <category lang="en">programme</category>
+  </programme>
+  <programme start="20260712101500 +0000" stop="20260712103000 +0000" channel="iranintl.iitv">
+    <title lang="fa">مرگ خامنه‌ای؛ پایان دیکتاتور</title>
+    <category lang="en">programme</category>
+    <url>https://www.iranintl.com/vod/the-death-of-khamenei</url>
+  </programme>
+  <programme start="20260712103000 +0000" stop="20260712111500 +0000" channel="iranintl.iitv">
+    <title lang="fa">خبر</title>
+    <category lang="en">programme</category>
+  </programme>
+  <programme start="20260712113000 +0000" stop="20260712120000 +0000" channel="iranintl.iitv">
+    <title lang="fa">خبر</title>
+    <category lang="en">programme</category>
+  </programme>
+  <programme start="20260712120000 +0000" stop="20260712123000 +0000" channel="iranintl.iitv">
+    <title lang="fa">سیاست با مراد ویسی   </title>
+    <category lang="en">programme</category>
+    <url>https://www.iranintl.com/vod/news-special-with-morad</url>
+  </programme>
+  <programme start="20260712123000 +0000" stop="20260712131500 +0000" channel="iranintl.iitv">
+    <title lang="fa">خبر</title>
+    <category lang="en">programme</category>
+  </programme>
+  <programme start="20260712131500 +0000" stop="20260712133000 +0000" channel="iranintl.iitv">
+    <title lang="fa">چرتکه</title>
+    <category lang="en">programme</category>
+    <url>https://www.iranintl.com/vod/chortkeh</url>
+  </programme>
+  <programme start="20260712133000 +0000" stop="20260712141500 +0000" channel="iranintl.iitv">
+    <title lang="fa">خبر</title>
+    <category lang="en">programme</category>
+  </programme>
+  <programme start="20260712143000 +0000" stop="20260712144500 +0000" channel="iranintl.iitv">
+    <title lang="fa">گزارش روز با مجتبا پورمحسن </title>
+    <category lang="en">programme</category>
+    <url>https://www.iranintl.com/vod/daily-report-with-mojtaba-pourmohesen</url>
+  </programme>
+  <programme start="20260712144500 +0000" stop="20260712150000 +0000" channel="iranintl.iitv">
+    <title lang="fa">مرگ خامنه‌ای؛ پایان دیکتاتور</title>
+    <category lang="en">programme</category>
+    <url>https://www.iranintl.com/vod/the-death-of-khamenei</url>
+  </programme>
+  <programme start="20260712150000 +0000" stop="20260712161500 +0000" channel="iranintl.iitv">
+    <title lang="fa">هت‌تریک ویژه جام جهانی</title>
+    <category lang="en">programme</category>
+  </programme>
+  <programme start="20260712163000 +0000" stop="20260712171500 +0000" channel="iranintl.iitv">
+    <title lang="fa">تیتر اول با نیوشا صارمی       </title>
+    <category lang="en">programme</category>
+    <url>https://www.iranintl.com/vod/titre-aval</url>
+  </programme>
+  <programme start="20260712173000 +0000" stop="20260712181500 +0000" channel="iranintl.iitv">
+    <title lang="fa">چشم‌انداز با مهدی مهدوی‌آزاد</title>
+    <category lang="en">programme</category>
+    <url>https://www.iranintl.com/vod/talk-show</url>
+  </programme>
+  <programme start="20260712183000 +0000" stop="20260712191500 +0000" channel="iranintl.iitv">
+    <title lang="fa">خبر</title>
+    <category lang="en">programme</category>
+  </programme>
+  <programme start="20260712191500 +0000" stop="20260712193000 +0000" channel="iranintl.iitv">
+    <title lang="fa">هت‌تریک ویژه جام جهانی</title>
+    <category lang="en">programme</category>
+  </programme>
+  <programme start="20260712193000 +0000" stop="20260712201500 +0000" channel="iranintl.iitv">
+    <title lang="fa">خبر</title>
+    <category lang="en">programme</category>
+  </programme>
+  <programme start="20260712201500 +0000" stop="20260712203000 +0000" channel="iranintl.iitv">
+    <title lang="fa">مرگ خامنه‌ای؛ پایان دیکتاتور</title>
+    <category lang="en">programme</category>
+    <url>https://www.iranintl.com/vod/the-death-of-khamenei</url>
+  </programme>
+  <programme start="20260712203000 +0000" stop="20260712204500 +0000" channel="iranintl.iitv">
+    <title lang="fa">خبر</title>
+    <category lang="en">programme</category>
+  </programme>
+  <programme start="20260712210000 +0000" stop="20260712213000 +0000" channel="iranintl.iitv">
+    <title lang="fa">سیاست با مراد ویسی   </title>
+    <category lang="en">programme</category>
+    <url>https://www.iranintl.com/vod/news-special-with-morad</url>
+  </programme>
+  <programme start="20260712213000 +0000" stop="20260712221500 +0000" channel="iranintl.iitv">
+    <title lang="fa">خبر</title>
+    <category lang="en">programme</category>
+  </programme>
+  <programme start="20260712221500 +0000" stop="20260712223000 +0000" channel="iranintl.iitv">
+    <title lang="fa">گزارش روز با مجتبا پورمحسن </title>
+    <category lang="en">programme</category>
+    <url>https://www.iranintl.com/vod/daily-report-with-mojtaba-pourmohesen</url>
+  </programme>
+  <programme start="20260712223000 +0000" stop="20260712224500 +0000" channel="iranintl.iitv">
+    <title lang="fa">خبر</title>
+    <category lang="en">programme</category>
+  </programme>
+  <programme start="20260712224500 +0000" stop="20260712233000 +0000" channel="iranintl.iitv">
+    <title lang="fa">چشم‌انداز با مهدی مهدوی‌آزاد</title>
+    <category lang="en">programme</category>
+    <url>https://www.iranintl.com/vod/talk-show</url>
+  </programme>
+  <programme start="20260712233000 +0000" stop="20260712234500 +0000" channel="iranintl.iitv">
+    <title lang="fa">خبر</title>
+    <category lang="en">programme</category>
+  </programme>
+  <programme start="20260712234500 +0000" stop="20260713003000 +0000" channel="iranintl.iitv">
+    <title lang="fa">تیتر اول با نیوشا صارمی       </title>
+    <category lang="en">programme</category>
+    <url>https://www.iranintl.com/vod/titre-aval</url>
+  </programme>
+  <programme start="20260713003000 +0000" stop="20260713011500 +0000" channel="iranintl.iitv">
+    <title lang="fa">خبر</title>
+    <category lang="en">programme</category>
+  </programme>
+  <programme start="20260713011500 +0000" stop="20260713013000 +0000" channel="iranintl.iitv">
+    <title lang="fa">هت‌تریک ویژه جام جهانی</title>
+    <category lang="en">programme</category>
+  </programme>
+  <programme start="20260713013000 +0000" stop="20260713014500 +0000" channel="iranintl.iitv">
+    <title lang="fa">خبر</title>
+    <category lang="en">programme</category>
+  </programme>
+  <programme start="20260713020000 +0000" stop="20260713023000 +0000" channel="iranintl.iitv">
+    <title lang="fa">سیاست با مراد ویسی   </title>
+    <category lang="en">programme</category>
+    <url>https://www.iranintl.com/vod/news-special-with-morad</url>
+  </programme>
+  <programme start="20260713023000 +0000" stop="20260713031500 +0000" channel="iranintl.iitv">
+    <title lang="fa">خبر</title>
+    <category lang="en">programme</category>
+  </programme>
+  <programme start="20260713033000 +0000" stop="20260713041500 +0000" channel="iranintl.iitv">
+    <title lang="fa">خبر</title>
+    <category lang="en">programme</category>
+  </programme>
+  <programme start="20260713043000 +0000" stop="20260713050000 +0000" channel="iranintl.iitv">
+    <title lang="fa">خبر</title>
+    <category lang="en">programme</category>
+  </programme>
+  <programme start="20260713050000 +0000" stop="20260713053000 +0000" channel="iranintl.iitv">
+    <title lang="fa">سیاست با مراد ویسی   </title>
+    <category lang="en">programme</category>
+    <url>https://www.iranintl.com/vod/news-special-with-morad</url>
+  </programme>
+  <programme start="20260713053000 +0000" stop="20260713060000 +0000" channel="iranintl.iitv">
+    <title lang="fa">خبر</title>
+    <category lang="en">programme</category>
+  </programme>
+  <programme start="20260713060000 +0000" stop="20260713061500 +0000" channel="iranintl.iitv">
+    <title lang="fa">گزارش روز با مجتبا پورمحسن </title>
+    <category lang="en">programme</category>
+    <url>https://www.iranintl.com/vod/daily-report-with-mojtaba-pourmohesen</url>
+  </programme>
+  <programme start="20260713063000 +0000" stop="20260713071500 +0000" channel="iranintl.iitv">
+    <title lang="fa">خبر</title>
+    <category lang="en">programme</category>
+  </programme>
+  <programme start="20260713071500 +0000" stop="20260713073000 +0000" channel="iranintl.iitv">
+    <title lang="fa">هت‌تریک ویژه جام جهانی</title>
+    <category lang="en">programme</category>
+  </programme>
+  <programme start="20260713073000 +0000" stop="20260713074500 +0000" channel="iranintl.iitv">
+    <title lang="fa">خبر</title>
+    <category lang="en">programme</category>
+  </programme>
+  <programme start="20260713074500 +0000" stop="20260713083000 +0000" channel="iranintl.iitv">
+    <title lang="fa">چشم‌انداز با مهدی مهدوی‌آزاد</title>
+    <category lang="en">programme</category>
+    <url>https://www.iranintl.com/vod/talk-show</url>
+  </programme>
+  <programme start="20260713083000 +0000" stop="20260713091500 +0000" channel="iranintl.iitv">
+    <title lang="fa">خبر</title>
+    <category lang="en">programme</category>
+  </programme>
+  <programme start="20260713093000 +0000" stop="20260713101500 +0000" channel="iranintl.iitv">
+    <title lang="fa">خبر</title>
+    <category lang="en">programme</category>
+  </programme>
+  <programme start="20260713103000 +0000" stop="20260713111500 +0000" channel="iranintl.iitv">
+    <title lang="fa">خبر</title>
+    <category lang="en">programme</category>
+  </programme>
+  <programme start="20260713113000 +0000" stop="20260713120000 +0000" channel="iranintl.iitv">
+    <title lang="fa">خبر</title>
+    <category lang="en">programme</category>
+  </programme>
+  <programme start="20260713120000 +0000" stop="20260713123000 +0000" channel="iranintl.iitv">
+    <title lang="fa">سیاست با مراد ویسی   </title>
+    <category lang="en">programme</category>
+    <url>https://www.iranintl.com/vod/news-special-with-morad</url>
+  </programme>
+  <programme start="20260713123000 +0000" stop="20260713131500 +0000" channel="iranintl.iitv">
+    <title lang="fa">خبر</title>
+    <category lang="en">programme</category>
+  </programme>
+  <programme start="20260713133000 +0000" stop="20260713141500 +0000" channel="iranintl.iitv">
+    <title lang="fa">خبر</title>
+    <category lang="en">programme</category>
+  </programme>
+  <programme start="20260713143000 +0000" stop="20260713144500 +0000" channel="iranintl.iitv">
+    <title lang="fa">گزارش روز با مجتبا پورمحسن </title>
+    <category lang="en">programme</category>
+    <url>https://www.iranintl.com/vod/daily-report-with-mojtaba-pourmohesen</url>
+  </programme>
+  <programme start="20260713150000 +0000" stop="20260713161500 +0000" channel="iranintl.iitv">
+    <title lang="fa">هت‌تریک ویژه جام جهانی</title>
+    <category lang="en">programme</category>
+  </programme>
+  <programme start="20260713163000 +0000" stop="20260713171500 +0000" channel="iranintl.iitv">
+    <title lang="fa">تیتر اول با نیوشا صارمی       </title>
+    <category lang="en">programme</category>
+    <url>https://www.iranintl.com/vod/titre-aval</url>
+  </programme>
+  <programme start="20260713173000 +0000" stop="20260713181500 +0000" channel="iranintl.iitv">
+    <title lang="fa">چشم‌انداز با مهدی مهدوی‌آزاد</title>
+    <category lang="en">programme</category>
+    <url>https://www.iranintl.com/vod/talk-show</url>
+  </programme>
+  <programme start="20260713183000 +0000" stop="20260713191500 +0000" channel="iranintl.iitv">
+    <title lang="fa">۲۴ با فرداد فرحزاد     </title>
+    <category lang="en">programme</category>
+    <url>https://www.iranintl.com/vod/24-with-fardad</url>
+  </programme>
+  <programme start="20260713191500 +0000" stop="20260713193000 +0000" channel="iranintl.iitv">
+    <title lang="fa">هت‌تریک ویژه جام جهانی</title>
+    <category lang="en">programme</category>
+  </programme>
+  <programme start="20260713193000 +0000" stop="20260713204500 +0000" channel="iranintl.iitv">
+    <title lang="fa">برنامه با کامبیز حسینی</title>
+    <category lang="en">programme</category>
+    <url>https://www.iranintl.com/vod/the-kambiz-show</url>
+  </programme>
+  <programme start="20260713210000 +0000" stop="20260713213000 +0000" channel="iranintl.iitv">
+    <title lang="fa">سیاست با مراد ویسی   </title>
+    <category lang="en">programme</category>
+    <url>https://www.iranintl.com/vod/news-special-with-morad</url>
+  </programme>
+  <programme start="20260713213000 +0000" stop="20260713221500 +0000" channel="iranintl.iitv">
+    <title lang="fa">خبر</title>
+    <category lang="en">programme</category>
+  </programme>
+  <programme start="20260713221500 +0000" stop="20260713223000 +0000" channel="iranintl.iitv">
+    <title lang="fa">گزارش روز با مجتبا پورمحسن </title>
+    <category lang="en">programme</category>
+    <url>https://www.iranintl.com/vod/daily-report-with-mojtaba-pourmohesen</url>
+  </programme>
+  <programme start="20260713223000 +0000" stop="20260713224500 +0000" channel="iranintl.iitv">
+    <title lang="fa">خبر</title>
+    <category lang="en">programme</category>
+  </programme>
+  <programme start="20260713224500 +0000" stop="20260713233000 +0000" channel="iranintl.iitv">
+    <title lang="fa">چشم‌انداز با مهدی مهدوی‌آزاد</title>
+    <category lang="en">programme</category>
+    <url>https://www.iranintl.com/vod/talk-show</url>
+  </programme>
+  <programme start="20260713233000 +0000" stop="20260713234500 +0000" channel="iranintl.iitv">
+    <title lang="fa">خبر</title>
+    <category lang="en">programme</category>
+  </programme>
+  <programme start="20260713234500 +0000" stop="20260714003000 +0000" channel="iranintl.iitv">
+    <title lang="fa">۲۴ با فرداد فرحزاد     </title>
+    <category lang="en">programme</category>
+    <url>https://www.iranintl.com/vod/24-with-fardad</url>
   </programme>
   <programme start="20260714003000 +0000" stop="20260714011500 +0000" channel="iranintl.iitv">
     <title lang="fa">خبر</title>
