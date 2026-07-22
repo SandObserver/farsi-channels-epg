@@ -1,5 +1,5 @@
-import json, re, requests
-from datetime import datetime, timezone
+import json, os, re, requests
+from datetime import datetime, timedelta, timezone
 from xml.etree.ElementTree import Element, SubElement, tostring, indent
 
 SCHEDULE_URL = "https://www.iranintl.com/tvschedule"
@@ -36,8 +36,11 @@ def _extract_schedule_data(html):
 
 def _parse_duration(d):
     parts = d.split(":")
-    try: return int(parts[0]) * 60 + int(parts[1])
-    except: return 0
+    try:
+        return int(parts[0]) * 60 + int(parts[1])
+    except (ValueError, IndexError) as exc:
+        print(f"Warning: could not parse duration {d!r} ({exc}), treating as 0 minutes")
+        return 0
 
 resp = requests.get(SCHEDULE_URL, headers=HEADERS, timeout=30)
 resp.raise_for_status()
@@ -52,7 +55,6 @@ for day in schedule_days:
         except Exception:
             continue
         dur_m  = _parse_duration(item.get("duration", "00:00:00:00"))
-        from datetime import timedelta
         end_dt = start_dt + timedelta(minutes=dur_m)
         programmes.append({
             "start": start_dt.strftime("%Y%m%d%H%M%S %z").strip(),
@@ -74,12 +76,17 @@ for p in programmes:
     if p["type"]: SubElement(el, "category", lang="en").text = p["type"]
     if p["slug"]: SubElement(el, "url").text = f"https://www.iranintl.com/vod/{p['slug']}"
 
+if not programmes:
+    raise RuntimeError(
+        "No programmes were parsed from the schedule page. "
+        "Refusing to overwrite the existing feed with an empty one."
+    )
+
 try: indent(tv, space="  ")
 except TypeError: pass
 
 xml = b'<?xml version="1.0" encoding="UTF-8"?>\n' + tostring(tv, encoding="unicode").encode("utf-8")
 
-import os
 os.makedirs("output", exist_ok=True)
 with open("output/iranintl.xml", "wb") as f:
     f.write(xml)

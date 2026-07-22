@@ -2,7 +2,12 @@ import os, requests
 from datetime import datetime, timezone, timedelta
 from xml.etree.ElementTree import Element, SubElement, tostring, indent
 
-YOUTUBE_API_KEY  = os.environ["YOUTUBE_API_KEY"]
+YOUTUBE_API_KEY = os.environ.get("YOUTUBE_API_KEY")
+if not YOUTUBE_API_KEY:
+    raise RuntimeError(
+        "YOUTUBE_API_KEY environment variable is not set. "
+        "Set it to a YouTube Data API v3 key before running this script."
+    )
 CHANNEL_ID_YT    = "UCnUdm0u-2FRffBnxQYHuTHA"
 XMLTV_CHANNEL_ID = "manoto.tv"
 CHANNEL_NAME     = "Manoto TV"
@@ -50,8 +55,7 @@ except TypeError: pass
 
 xml = b'<?xml version="1.0" encoding="UTF-8"?>\n' + tostring(tv, encoding="unicode").encode("utf-8")
 
-import os as _os
-_os.makedirs("output", exist_ok=True)
+os.makedirs("output", exist_ok=True)
 with open("output/manoto.xml", "wb") as f:
     f.write(xml)
 
