@@ -41,4 +41,4 @@ Both scripts write their output to `output/`, relative to the current working di
 
 ## License
 
-See `LICENSE`.
+The code in this repository is licensed under the MIT License, see `LICENSE`. This license does not extend to the schedule data or video titles the scripts fetch, those remain the property of Iran International and YouTube/the channel owner respectively.
