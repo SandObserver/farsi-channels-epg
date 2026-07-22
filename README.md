@@ -6,8 +6,8 @@ Automated XMLTV EPG feeds for Persian-language TV channels, rebuilt hourly by Gi
 
 | Channel | Source | Feed URL |
 |---|---|---|
-| Iran International | Official schedule on iranintl.com | `https://raw.githubusercontent.com/SandObserver/my-epg/main/output/iranintl.xml` |
-| Manoto TV | Current or most recent YouTube live title | `https://raw.githubusercontent.com/SandObserver/my-epg/main/output/manoto.xml` |
+| Iran International | Official schedule on iranintl.com | `https://raw.githubusercontent.com/SandObserver/farsi-channels-epg/main/output/iranintl.xml` |
+| Manoto TV | Current or most recent YouTube live title | `https://raw.githubusercontent.com/SandObserver/farsi-channels-epg/main/output/manoto.xml` |
 
 Point any XMLTV-compatible client (Jellyfin, Tvheadend, TiviMate, and similar) at either URL directly.
 
