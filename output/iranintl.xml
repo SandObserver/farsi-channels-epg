@@ -17,19 +17,6 @@
     <title lang="fa">خبر</title>
     <category lang="en">programme</category>
   </programme>
-  <programme start="20260724014500 +0000" stop="20260724020000 +0000" channel="iranintl.iitv">
-    <title lang="fa">پوشش ویژه خبری</title>
-    <category lang="en">programme</category>
-  </programme>
-  <programme start="20260724020000 +0000" stop="20260724023000 +0000" channel="iranintl.iitv">
-    <title lang="fa">فریدون</title>
-    <category lang="en">programme</category>
-    <url>https://www.iranintl.com/vod/fereydoun</url>
-  </programme>
-  <programme start="20260724023000 +0000" stop="20260724031500 +0000" channel="iranintl.iitv">
-    <title lang="fa">خبر</title>
-    <category lang="en">programme</category>
-  </programme>
   <programme start="20260724031500 +0000" stop="20260724033000 +0000" channel="iranintl.iitv">
     <title lang="fa">پوشش ویژه خبری</title>
     <category lang="en">programme</category>
@@ -119,9 +106,8 @@
     <category lang="en">programme</category>
   </programme>
   <programme start="20260724131500 +0000" stop="20260724133000 +0000" channel="iranintl.iitv">
-    <title lang="fa">مرگ خامنه‌ای؛ پایان دیکتاتور</title>
+    <title lang="fa">پوشش ویژه خبری</title>
     <category lang="en">programme</category>
-    <url>https://www.iranintl.com/vod/the-death-of-khamenei</url>
   </programme>
   <programme start="20260724133000 +0000" stop="20260724141500 +0000" channel="iranintl.iitv">
     <title lang="fa">خبر</title>
@@ -161,9 +147,8 @@
     <url>https://www.iranintl.com/vod/the-last-word</url>
   </programme>
   <programme start="20260724180000 +0000" stop="20260724181500 +0000" channel="iranintl.iitv">
-    <title lang="fa">مرگ خامنه‌ای؛ پایان دیکتاتور</title>
+    <title lang="fa">پوشش ویژه خبری</title>
     <category lang="en">programme</category>
-    <url>https://www.iranintl.com/vod/the-death-of-khamenei</url>
   </programme>
   <programme start="20260724181500 +0000" stop="20260724183000 +0000" channel="iranintl.iitv">
     <title lang="fa">چرتکه</title>
@@ -269,12 +254,8 @@
     <title lang="fa">خبر</title>
     <category lang="en">programme</category>
   </programme>
-  <programme start="20260725050000 +0000" stop="20260725051500 +0000" channel="iranintl.iitv">
-    <title lang="fa">پوشش ویژه خبری</title>
-    <category lang="en">programme</category>
-  </programme>
-  <programme start="20260725051500 +0000" stop="20260725053000 +0000" channel="iranintl.iitv">
-    <title lang="fa">پوشش ویژه خبری</title>
+  <programme start="20260725050000 +0000" stop="20260725053000 +0000" channel="iranintl.iitv">
+    <title lang="fa">مستند جمشید شارمهد</title>
     <category lang="en">programme</category>
   </programme>
   <programme start="20260725053000 +0000" stop="20260725060000 +0000" channel="iranintl.iitv">
@@ -282,9 +263,9 @@
     <category lang="en">programme</category>
   </programme>
   <programme start="20260725060000 +0000" stop="20260725061500 +0000" channel="iranintl.iitv">
-    <title lang="fa">مرگ خامنه‌ای؛ پایان دیکتاتور</title>
+    <title lang="fa">چرتکه</title>
     <category lang="en">programme</category>
-    <url>https://www.iranintl.com/vod/the-death-of-khamenei</url>
+    <url>https://www.iranintl.com/vod/chortkeh</url>
   </programme>
   <programme start="20260725061500 +0000" stop="20260725063000 +0000" channel="iranintl.iitv">
     <title lang="fa">پوشش ویژه خبری</title>
@@ -340,13 +321,8 @@
     <title lang="fa">خبر</title>
     <category lang="en">programme</category>
   </programme>
-  <programme start="20260725120000 +0000" stop="20260725121500 +0000" channel="iranintl.iitv">
-    <title lang="fa">مرگ خامنه‌ای؛ پایان دیکتاتور</title>
-    <category lang="en">programme</category>
-    <url>https://www.iranintl.com/vod/the-death-of-khamenei</url>
-  </programme>
-  <programme start="20260725121500 +0000" stop="20260725123000 +0000" channel="iranintl.iitv">
-    <title lang="fa">پوشش ویژه خبری</title>
+  <programme start="20260725120000 +0000" stop="20260725123000 +0000" channel="iranintl.iitv">
+    <title lang="fa">مستند جمشید شارمهد</title>
     <category lang="en">programme</category>
   </programme>
   <programme start="20260725123000 +0000" stop="20260725131500 +0000" channel="iranintl.iitv">
