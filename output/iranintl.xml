@@ -5,214 +5,6 @@
     <display-name lang="en">Iran International</display-name>
     <icon src="https://www.iranintl.com/images/ii/ii-logo-fa.svg" />
   </channel>
-  <programme start="20260724003000 +0000" stop="20260724011500 +0000" channel="iranintl.iitv">
-    <title lang="fa">خبر</title>
-    <category lang="en">programme</category>
-  </programme>
-  <programme start="20260724011500 +0000" stop="20260724013000 +0000" channel="iranintl.iitv">
-    <title lang="fa">پوشش ویژه خبری</title>
-    <category lang="en">programme</category>
-  </programme>
-  <programme start="20260724013000 +0000" stop="20260724014500 +0000" channel="iranintl.iitv">
-    <title lang="fa">خبر</title>
-    <category lang="en">programme</category>
-  </programme>
-  <programme start="20260724031500 +0000" stop="20260724033000 +0000" channel="iranintl.iitv">
-    <title lang="fa">پوشش ویژه خبری</title>
-    <category lang="en">programme</category>
-  </programme>
-  <programme start="20260724033000 +0000" stop="20260724041500 +0000" channel="iranintl.iitv">
-    <title lang="fa">خبر</title>
-    <category lang="en">programme</category>
-  </programme>
-  <programme start="20260724041500 +0000" stop="20260724043000 +0000" channel="iranintl.iitv">
-    <title lang="fa">پوشش ویژه خبری</title>
-    <category lang="en">programme</category>
-  </programme>
-  <programme start="20260724043000 +0000" stop="20260724050000 +0000" channel="iranintl.iitv">
-    <title lang="fa">خبر</title>
-    <category lang="en">programme</category>
-  </programme>
-  <programme start="20260724050000 +0000" stop="20260724053000 +0000" channel="iranintl.iitv">
-    <title lang="fa">فریدون</title>
-    <category lang="en">programme</category>
-    <url>https://www.iranintl.com/vod/fereydoun</url>
-  </programme>
-  <programme start="20260724053000 +0000" stop="20260724060000 +0000" channel="iranintl.iitv">
-    <title lang="fa">خبر</title>
-    <category lang="en">programme</category>
-  </programme>
-  <programme start="20260724060000 +0000" stop="20260724063000 +0000" channel="iranintl.iitv">
-    <title lang="fa">مستند جمشید شارمهد</title>
-    <category lang="en">programme</category>
-  </programme>
-  <programme start="20260724063000 +0000" stop="20260724071500 +0000" channel="iranintl.iitv">
-    <title lang="fa">خبر</title>
-    <category lang="en">programme</category>
-  </programme>
-  <programme start="20260724071500 +0000" stop="20260724073000 +0000" channel="iranintl.iitv">
-    <title lang="fa">پوشش ویژه خبری</title>
-    <category lang="en">programme</category>
-  </programme>
-  <programme start="20260724073000 +0000" stop="20260724074500 +0000" channel="iranintl.iitv">
-    <title lang="fa">خبر</title>
-    <category lang="en">programme</category>
-  </programme>
-  <programme start="20260724074500 +0000" stop="20260724081500 +0000" channel="iranintl.iitv">
-    <title lang="fa">دومینو</title>
-    <category lang="en">programme</category>
-    <url>https://www.iranintl.com/vod/domino-live</url>
-  </programme>
-  <programme start="20260724081500 +0000" stop="20260724083000 +0000" channel="iranintl.iitv">
-    <title lang="fa">پوشش ویژه خبری</title>
-    <category lang="en">programme</category>
-  </programme>
-  <programme start="20260724083000 +0000" stop="20260724091500 +0000" channel="iranintl.iitv">
-    <title lang="fa">خبر</title>
-    <category lang="en">programme</category>
-  </programme>
-  <programme start="20260724091500 +0000" stop="20260724093000 +0000" channel="iranintl.iitv">
-    <title lang="fa">پوشش ویژه خبری</title>
-    <category lang="en">programme</category>
-  </programme>
-  <programme start="20260724093000 +0000" stop="20260724101500 +0000" channel="iranintl.iitv">
-    <title lang="fa">خبر</title>
-    <category lang="en">programme</category>
-  </programme>
-  <programme start="20260724101500 +0000" stop="20260724103000 +0000" channel="iranintl.iitv">
-    <title lang="fa">پوشش ویژه خبری</title>
-    <category lang="en">programme</category>
-  </programme>
-  <programme start="20260724103000 +0000" stop="20260724111500 +0000" channel="iranintl.iitv">
-    <title lang="fa">خبر</title>
-    <category lang="en">programme</category>
-  </programme>
-  <programme start="20260724111500 +0000" stop="20260724113000 +0000" channel="iranintl.iitv">
-    <title lang="fa">چرتکه</title>
-    <category lang="en">programme</category>
-    <url>https://www.iranintl.com/vod/chortkeh</url>
-  </programme>
-  <programme start="20260724113000 +0000" stop="20260724120000 +0000" channel="iranintl.iitv">
-    <title lang="fa">خبر</title>
-    <category lang="en">programme</category>
-  </programme>
-  <programme start="20260724120000 +0000" stop="20260724123000 +0000" channel="iranintl.iitv">
-    <title lang="fa">فریدون</title>
-    <category lang="en">programme</category>
-    <url>https://www.iranintl.com/vod/fereydoun</url>
-  </programme>
-  <programme start="20260724123000 +0000" stop="20260724131500 +0000" channel="iranintl.iitv">
-    <title lang="fa">خبر</title>
-    <category lang="en">programme</category>
-  </programme>
-  <programme start="20260724131500 +0000" stop="20260724133000 +0000" channel="iranintl.iitv">
-    <title lang="fa">پوشش ویژه خبری</title>
-    <category lang="en">programme</category>
-  </programme>
-  <programme start="20260724133000 +0000" stop="20260724141500 +0000" channel="iranintl.iitv">
-    <title lang="fa">خبر</title>
-    <category lang="en">programme</category>
-  </programme>
-  <programme start="20260724141500 +0000" stop="20260724143000 +0000" channel="iranintl.iitv">
-    <title lang="fa">پوشش ویژه خبری</title>
-    <category lang="en">programme</category>
-  </programme>
-  <programme start="20260724143000 +0000" stop="20260724151500 +0000" channel="iranintl.iitv">
-    <title lang="fa">خبر</title>
-    <category lang="en">programme</category>
-  </programme>
-  <programme start="20260724151500 +0000" stop="20260724153000 +0000" channel="iranintl.iitv">
-    <title lang="fa">پوشش ویژه خبری</title>
-    <category lang="en">programme</category>
-  </programme>
-  <programme start="20260724153000 +0000" stop="20260724161500 +0000" channel="iranintl.iitv">
-    <title lang="fa">خبر</title>
-    <category lang="en">programme</category>
-  </programme>
-  <programme start="20260724161500 +0000" stop="20260724163000 +0000" channel="iranintl.iitv">
-    <title lang="fa">پوشش ویژه خبری</title>
-    <category lang="en">programme</category>
-  </programme>
-  <programme start="20260724163000 +0000" stop="20260724170000 +0000" channel="iranintl.iitv">
-    <title lang="fa">خبر</title>
-    <category lang="en">programme</category>
-  </programme>
-  <programme start="20260724170000 +0000" stop="20260724173000 +0000" channel="iranintl.iitv">
-    <title lang="fa">مستند جمشید شارمهد</title>
-    <category lang="en">programme</category>
-  </programme>
-  <programme start="20260724173000 +0000" stop="20260724180000 +0000" channel="iranintl.iitv">
-    <title lang="fa">حرف آخر با پوریا زراعتی  </title>
-    <category lang="en">programme</category>
-    <url>https://www.iranintl.com/vod/the-last-word</url>
-  </programme>
-  <programme start="20260724180000 +0000" stop="20260724181500 +0000" channel="iranintl.iitv">
-    <title lang="fa">پوشش ویژه خبری</title>
-    <category lang="en">programme</category>
-  </programme>
-  <programme start="20260724181500 +0000" stop="20260724183000 +0000" channel="iranintl.iitv">
-    <title lang="fa">چرتکه</title>
-    <category lang="en">programme</category>
-    <url>https://www.iranintl.com/vod/chortkeh</url>
-  </programme>
-  <programme start="20260724183000 +0000" stop="20260724191500 +0000" channel="iranintl.iitv">
-    <title lang="fa">۲۴ با فرداد فرحزاد     </title>
-    <category lang="en">programme</category>
-    <url>https://www.iranintl.com/vod/24-with-fardad</url>
-  </programme>
-  <programme start="20260724191500 +0000" stop="20260724193000 +0000" channel="iranintl.iitv">
-    <title lang="fa">پوشش ویژه خبری</title>
-    <category lang="en">programme</category>
-  </programme>
-  <programme start="20260724193000 +0000" stop="20260724201500 +0000" channel="iranintl.iitv">
-    <title lang="fa">۲۴ با فرداد فرحزاد     </title>
-    <category lang="en">programme</category>
-    <url>https://www.iranintl.com/vod/24-with-fardad</url>
-  </programme>
-  <programme start="20260724201500 +0000" stop="20260724203000 +0000" channel="iranintl.iitv">
-    <title lang="fa">پوشش ویژه خبری</title>
-    <category lang="en">programme</category>
-  </programme>
-  <programme start="20260724203000 +0000" stop="20260724210000 +0000" channel="iranintl.iitv">
-    <title lang="fa">خبر</title>
-    <category lang="en">programme</category>
-  </programme>
-  <programme start="20260724210000 +0000" stop="20260724213000 +0000" channel="iranintl.iitv">
-    <title lang="fa">حرف آخر با پوریا زراعتی  </title>
-    <category lang="en">programme</category>
-    <url>https://www.iranintl.com/vod/the-last-word</url>
-  </programme>
-  <programme start="20260724213000 +0000" stop="20260724221500 +0000" channel="iranintl.iitv">
-    <title lang="fa">خبر</title>
-    <category lang="en">programme</category>
-  </programme>
-  <programme start="20260724221500 +0000" stop="20260724223000 +0000" channel="iranintl.iitv">
-    <title lang="fa">چرتکه</title>
-    <category lang="en">programme</category>
-    <url>https://www.iranintl.com/vod/chortkeh</url>
-  </programme>
-  <programme start="20260724223000 +0000" stop="20260724224500 +0000" channel="iranintl.iitv">
-    <title lang="fa">خبر</title>
-    <category lang="en">programme</category>
-  </programme>
-  <programme start="20260724224500 +0000" stop="20260724230000 +0000" channel="iranintl.iitv">
-    <title lang="fa">پوشش ویژه خبری</title>
-    <category lang="en">programme</category>
-  </programme>
-  <programme start="20260724230000 +0000" stop="20260724233000 +0000" channel="iranintl.iitv">
-    <title lang="fa">فریدون</title>
-    <category lang="en">programme</category>
-    <url>https://www.iranintl.com/vod/fereydoun</url>
-  </programme>
-  <programme start="20260724233000 +0000" stop="20260724234500 +0000" channel="iranintl.iitv">
-    <title lang="fa">خبر</title>
-    <category lang="en">programme</category>
-  </programme>
-  <programme start="20260724234500 +0000" stop="20260725003000 +0000" channel="iranintl.iitv">
-    <title lang="fa">۲۴ با فرداد فرحزاد     </title>
-    <category lang="en">programme</category>
-    <url>https://www.iranintl.com/vod/24-with-fardad</url>
-  </programme>
   <programme start="20260725003000 +0000" stop="20260725011500 +0000" channel="iranintl.iitv">
     <title lang="fa">خبر</title>
     <category lang="en">programme</category>
@@ -1523,6 +1315,234 @@
     <category lang="en">programme</category>
   </programme>
   <programme start="20260730234500 +0000" stop="20260731003000 +0000" channel="iranintl.iitv">
+    <title lang="fa">۲۴ با فرداد فرحزاد     </title>
+    <category lang="en">programme</category>
+    <url>https://www.iranintl.com/vod/24-with-fardad</url>
+  </programme>
+  <programme start="20260731003000 +0000" stop="20260731011500 +0000" channel="iranintl.iitv">
+    <title lang="fa">خبر</title>
+    <category lang="en">programme</category>
+  </programme>
+  <programme start="20260731011500 +0000" stop="20260731013000 +0000" channel="iranintl.iitv">
+    <title lang="fa">پوشش ویژه خبری</title>
+    <category lang="en">programme</category>
+  </programme>
+  <programme start="20260731013000 +0000" stop="20260731014500 +0000" channel="iranintl.iitv">
+    <title lang="fa">خبر</title>
+    <category lang="en">programme</category>
+  </programme>
+  <programme start="20260731014500 +0000" stop="20260731020000 +0000" channel="iranintl.iitv">
+    <title lang="fa">پوشش ویژه خبری</title>
+    <category lang="en">programme</category>
+  </programme>
+  <programme start="20260731020000 +0000" stop="20260731023000 +0000" channel="iranintl.iitv">
+    <title lang="fa">فریدون</title>
+    <category lang="en">programme</category>
+    <url>https://www.iranintl.com/vod/fereydoun</url>
+  </programme>
+  <programme start="20260731023000 +0000" stop="20260731031500 +0000" channel="iranintl.iitv">
+    <title lang="fa">خبر</title>
+    <category lang="en">programme</category>
+  </programme>
+  <programme start="20260731031500 +0000" stop="20260731033000 +0000" channel="iranintl.iitv">
+    <title lang="fa">پوشش ویژه خبری</title>
+    <category lang="en">programme</category>
+  </programme>
+  <programme start="20260731033000 +0000" stop="20260731041500 +0000" channel="iranintl.iitv">
+    <title lang="fa">خبر</title>
+    <category lang="en">programme</category>
+  </programme>
+  <programme start="20260731041500 +0000" stop="20260731043000 +0000" channel="iranintl.iitv">
+    <title lang="fa">پوشش ویژه خبری</title>
+    <category lang="en">programme</category>
+  </programme>
+  <programme start="20260731043000 +0000" stop="20260731050000 +0000" channel="iranintl.iitv">
+    <title lang="fa">خبر</title>
+    <category lang="en">programme</category>
+  </programme>
+  <programme start="20260731050000 +0000" stop="20260731053000 +0000" channel="iranintl.iitv">
+    <title lang="fa">فریدون</title>
+    <category lang="en">programme</category>
+    <url>https://www.iranintl.com/vod/fereydoun</url>
+  </programme>
+  <programme start="20260731053000 +0000" stop="20260731060000 +0000" channel="iranintl.iitv">
+    <title lang="fa">خبر</title>
+    <category lang="en">programme</category>
+  </programme>
+  <programme start="20260731060000 +0000" stop="20260731061500 +0000" channel="iranintl.iitv">
+    <title lang="fa">گفت‌وگوی ویژه</title>
+    <category lang="en">programme</category>
+    <url>https://www.iranintl.com/vod/special-interview-series</url>
+  </programme>
+  <programme start="20260731061500 +0000" stop="20260731063000 +0000" channel="iranintl.iitv">
+    <title lang="fa">پوشش ویژه خبری</title>
+    <category lang="en">programme</category>
+  </programme>
+  <programme start="20260731063000 +0000" stop="20260731071500 +0000" channel="iranintl.iitv">
+    <title lang="fa">خبر</title>
+    <category lang="en">programme</category>
+  </programme>
+  <programme start="20260731071500 +0000" stop="20260731073000 +0000" channel="iranintl.iitv">
+    <title lang="fa">پوشش ویژه خبری</title>
+    <category lang="en">programme</category>
+  </programme>
+  <programme start="20260731073000 +0000" stop="20260731074500 +0000" channel="iranintl.iitv">
+    <title lang="fa">خبر</title>
+    <category lang="en">programme</category>
+  </programme>
+  <programme start="20260731074500 +0000" stop="20260731081500 +0000" channel="iranintl.iitv">
+    <title lang="fa">دومینو</title>
+    <category lang="en">programme</category>
+    <url>https://www.iranintl.com/vod/domino-live</url>
+  </programme>
+  <programme start="20260731081500 +0000" stop="20260731083000 +0000" channel="iranintl.iitv">
+    <title lang="fa">پوشش ویژه خبری</title>
+    <category lang="en">programme</category>
+  </programme>
+  <programme start="20260731083000 +0000" stop="20260731091500 +0000" channel="iranintl.iitv">
+    <title lang="fa">خبر</title>
+    <category lang="en">programme</category>
+  </programme>
+  <programme start="20260731091500 +0000" stop="20260731093000 +0000" channel="iranintl.iitv">
+    <title lang="fa">پوشش ویژه خبری</title>
+    <category lang="en">programme</category>
+  </programme>
+  <programme start="20260731093000 +0000" stop="20260731101500 +0000" channel="iranintl.iitv">
+    <title lang="fa">خبر</title>
+    <category lang="en">programme</category>
+  </programme>
+  <programme start="20260731101500 +0000" stop="20260731103000 +0000" channel="iranintl.iitv">
+    <title lang="fa">پوشش ویژه خبری</title>
+    <category lang="en">programme</category>
+  </programme>
+  <programme start="20260731103000 +0000" stop="20260731111500 +0000" channel="iranintl.iitv">
+    <title lang="fa">خبر</title>
+    <category lang="en">programme</category>
+  </programme>
+  <programme start="20260731111500 +0000" stop="20260731113000 +0000" channel="iranintl.iitv">
+    <title lang="fa">چرتکه</title>
+    <category lang="en">programme</category>
+    <url>https://www.iranintl.com/vod/chortkeh</url>
+  </programme>
+  <programme start="20260731113000 +0000" stop="20260731120000 +0000" channel="iranintl.iitv">
+    <title lang="fa">خبر</title>
+    <category lang="en">programme</category>
+  </programme>
+  <programme start="20260731120000 +0000" stop="20260731123000 +0000" channel="iranintl.iitv">
+    <title lang="fa">فریدون</title>
+    <category lang="en">programme</category>
+    <url>https://www.iranintl.com/vod/fereydoun</url>
+  </programme>
+  <programme start="20260731123000 +0000" stop="20260731131500 +0000" channel="iranintl.iitv">
+    <title lang="fa">خبر</title>
+    <category lang="en">programme</category>
+  </programme>
+  <programme start="20260731131500 +0000" stop="20260731133000 +0000" channel="iranintl.iitv">
+    <title lang="fa">مرگ خامنه‌ای؛ پایان دیکتاتور</title>
+    <category lang="en">programme</category>
+    <url>https://www.iranintl.com/vod/the-death-of-khamenei</url>
+  </programme>
+  <programme start="20260731133000 +0000" stop="20260731141500 +0000" channel="iranintl.iitv">
+    <title lang="fa">خبر</title>
+    <category lang="en">programme</category>
+  </programme>
+  <programme start="20260731143000 +0000" stop="20260731151500 +0000" channel="iranintl.iitv">
+    <title lang="fa">خبر</title>
+    <category lang="en">programme</category>
+  </programme>
+  <programme start="20260731151500 +0000" stop="20260731153000 +0000" channel="iranintl.iitv">
+    <title lang="fa">پوشش ویژه خبری</title>
+    <category lang="en">programme</category>
+  </programme>
+  <programme start="20260731153000 +0000" stop="20260731161500 +0000" channel="iranintl.iitv">
+    <title lang="fa">خبر</title>
+    <category lang="en">programme</category>
+  </programme>
+  <programme start="20260731161500 +0000" stop="20260731163000 +0000" channel="iranintl.iitv">
+    <title lang="fa">پوشش ویژه خبری</title>
+    <category lang="en">programme</category>
+  </programme>
+  <programme start="20260731163000 +0000" stop="20260731170000 +0000" channel="iranintl.iitv">
+    <title lang="fa">خبر</title>
+    <category lang="en">programme</category>
+  </programme>
+  <programme start="20260731170000 +0000" stop="20260731171500 +0000" channel="iranintl.iitv">
+    <title lang="fa">گفت‌وگوی ویژه</title>
+    <category lang="en">programme</category>
+    <url>https://www.iranintl.com/vod/special-interview-series</url>
+  </programme>
+  <programme start="20260731171500 +0000" stop="20260731173000 +0000" channel="iranintl.iitv">
+    <title lang="fa">پوشش ویژه خبری</title>
+    <category lang="en">programme</category>
+  </programme>
+  <programme start="20260731173000 +0000" stop="20260731180000 +0000" channel="iranintl.iitv">
+    <title lang="fa">حرف آخر با پوریا زراعتی  </title>
+    <category lang="en">programme</category>
+    <url>https://www.iranintl.com/vod/the-last-word</url>
+  </programme>
+  <programme start="20260731180000 +0000" stop="20260731181500 +0000" channel="iranintl.iitv">
+    <title lang="fa">مرگ خامنه‌ای؛ پایان دیکتاتور</title>
+    <category lang="en">programme</category>
+    <url>https://www.iranintl.com/vod/the-death-of-khamenei</url>
+  </programme>
+  <programme start="20260731181500 +0000" stop="20260731183000 +0000" channel="iranintl.iitv">
+    <title lang="fa">چرتکه</title>
+    <category lang="en">programme</category>
+    <url>https://www.iranintl.com/vod/chortkeh</url>
+  </programme>
+  <programme start="20260731183000 +0000" stop="20260731191500 +0000" channel="iranintl.iitv">
+    <title lang="fa">۲۴ با فرداد فرحزاد     </title>
+    <category lang="en">programme</category>
+    <url>https://www.iranintl.com/vod/24-with-fardad</url>
+  </programme>
+  <programme start="20260731191500 +0000" stop="20260731193000 +0000" channel="iranintl.iitv">
+    <title lang="fa">پوشش ویژه خبری</title>
+    <category lang="en">programme</category>
+  </programme>
+  <programme start="20260731193000 +0000" stop="20260731201500 +0000" channel="iranintl.iitv">
+    <title lang="fa">۲۴ با فرداد فرحزاد     </title>
+    <category lang="en">programme</category>
+    <url>https://www.iranintl.com/vod/24-with-fardad</url>
+  </programme>
+  <programme start="20260731201500 +0000" stop="20260731203000 +0000" channel="iranintl.iitv">
+    <title lang="fa">پوشش ویژه خبری</title>
+    <category lang="en">programme</category>
+  </programme>
+  <programme start="20260731203000 +0000" stop="20260731210000 +0000" channel="iranintl.iitv">
+    <title lang="fa">خبر</title>
+    <category lang="en">programme</category>
+  </programme>
+  <programme start="20260731210000 +0000" stop="20260731213000 +0000" channel="iranintl.iitv">
+    <title lang="fa">حرف آخر با پوریا زراعتی  </title>
+    <category lang="en">programme</category>
+    <url>https://www.iranintl.com/vod/the-last-word</url>
+  </programme>
+  <programme start="20260731213000 +0000" stop="20260731221500 +0000" channel="iranintl.iitv">
+    <title lang="fa">خبر</title>
+    <category lang="en">programme</category>
+  </programme>
+  <programme start="20260731221500 +0000" stop="20260731223000 +0000" channel="iranintl.iitv">
+    <title lang="fa">پوشش ویژه خبری</title>
+    <category lang="en">programme</category>
+  </programme>
+  <programme start="20260731223000 +0000" stop="20260731224500 +0000" channel="iranintl.iitv">
+    <title lang="fa">خبر</title>
+    <category lang="en">programme</category>
+  </programme>
+  <programme start="20260731224500 +0000" stop="20260731230000 +0000" channel="iranintl.iitv">
+    <title lang="fa">پوشش ویژه خبری</title>
+    <category lang="en">programme</category>
+  </programme>
+  <programme start="20260731230000 +0000" stop="20260731233000 +0000" channel="iranintl.iitv">
+    <title lang="fa">فریدون</title>
+    <category lang="en">programme</category>
+    <url>https://www.iranintl.com/vod/fereydoun</url>
+  </programme>
+  <programme start="20260731233000 +0000" stop="20260731234500 +0000" channel="iranintl.iitv">
+    <title lang="fa">خبر</title>
+    <category lang="en">programme</category>
+  </programme>
+  <programme start="20260731234500 +0000" stop="20260801003000 +0000" channel="iranintl.iitv">
     <title lang="fa">۲۴ با فرداد فرحزاد     </title>
     <category lang="en">programme</category>
     <url>https://www.iranintl.com/vod/24-with-fardad</url>
